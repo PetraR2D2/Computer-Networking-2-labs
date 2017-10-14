@@ -1,7 +1,7 @@
 import socket
  
  
-TCP_IP = '127.0.0.1'												# Local-host address (loop-back address, that is - I'm sending to myself).
+TCP_IP = '127.0.0.1'            # Local-host address (loop-back address, that is - I'm sending to myself).
 TCP_PORT = 8888
 BUFFER_SIZE = 1024
 MESSAGE = "SIMPLE TIME"
